@@ -7,5 +7,8 @@
 - 《OpenStack运维指南》  
 - 《精通OpenStack》  
 
-## Linux内核
-- 
+## 脚本
+- 《Linux命令行与shell脚本编程大全》
+
+## 论文
+- imc17
